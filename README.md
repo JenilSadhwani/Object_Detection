@@ -1,0 +1,1 @@
+The Object Detection System is a Python-based application that uses machine learning models to identify and classify objects in images or video streams. This system leverages popular deep learning libraries to provide accurate and efficient object detection capabilities.
